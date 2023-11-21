@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T11:42:32 EST" name="Default suite" finished-at="2023-11-16T11:43:07 EST" duration-ms="34880">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T11:42:32 EST" name="Default test" finished-at="2023-11-16T11:43:07 EST" duration-ms="34880">
+      <class name="com.framework.level1.level2.testcases.LumaCheckOutTest">
+        <test-method is-config="true" signature="checkoutSetUp()[pri:0, instance:com.framework.level1.level2.testcases.LumaCheckOutTest@6221a451]" started-at="2023-11-16T11:42:33 EST" name="checkoutSetUp" finished-at="2023-11-16T11:42:43 EST" duration-ms="10740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSetUp -->
+        <test-method signature="verifyAddAProductToTheShoppingCartAndNavigateToCheckOutPage()[pri:1, instance:com.framework.level1.level2.testcases.LumaCheckOutTest@6221a451]" started-at="2023-11-16T11:42:43 EST" name="verifyAddAProductToTheShoppingCartAndNavigateToCheckOutPage" finished-at="2023-11-16T11:43:07 EST" duration-ms="23982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddAProductToTheShoppingCartAndNavigateToCheckOutPage -->
+      </class> <!-- com.framework.level1.level2.testcases.LumaCheckOutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
